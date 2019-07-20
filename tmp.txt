@@ -1,7 +1,7 @@
 
 
 abc
-bcd
+changed part
 xyz
 
 
